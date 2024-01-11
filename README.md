@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying @SISTec<br>🌱 I’m currently learning python & blockchain<br>💬 Ask me about cyber security<br>⚡ Fun fact - I am lazy but hardworking
+🌱 I’m currently learning python & blockchain<br>💬 Ask me about cyber security<br>⚡ Fun fact - I am lazy but hardworking
 
 
 ## 🌐 Social:
